@@ -1,0 +1,25 @@
+{
+  "name": "stylelint-processor-tailwind",
+  "version": "1.0.0",
+  "description": "stylelint-processor-tailwind",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliothogg/stylelint-processor-tailwind"
+  },
+  "keywords": [
+    "stylelint",
+    "tailwind",
+    "stylelint-processor",
+    "stylelint-processor-tailwind"
+  ],
+  "author": "elliot hogg <elliothogg@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elliothogg/stylelint-processor-tailwind/issues"
+  },
+  "homepage": "https://github.com/elliothogg/stylelint-processor-tailwind#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.1"
+  }
+}
